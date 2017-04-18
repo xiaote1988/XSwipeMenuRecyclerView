@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xswipemenurecycler_list">
+        <item>测试带List的XRecyclerView(下拉刷新+上拉加载更多)</item>
+        <item>测试带Grid的XRecyclerView(下拉刷新+上拉加载更多)</item>
+        <item>测试带List的SwipeMenuRecyclerView(侧滑菜单)</item>
+        <item>测试带Grid的SwipeMenuRecyclerView(侧滑菜单)</item>
+        <item>测试带List的XSwipeRecyclerView(下拉刷新+上拉加载更多+侧滑菜单)</item>
+        <item>测试带Grid的XSwipeRecyclerView(下拉刷新+上拉加载更多+侧滑菜单)</item>
+        <item>测试带List的DragRecyclerView(长按拖拽+侧滑菜单)</item>
+        <item>测试带Grid的DragRecyclerView(长按拖拽+侧滑菜单)</item>
+        <item>测试带List的DragRecyclerView(按下+长按拖拽+滑动删除)</item>
+        <item>测试头部伸缩的XRecyclerView(下拉刷新+上拉加载更多+头部伸缩)</item>
+        <item>测试带List竖形的SwipeMenuRecyclerView(侧滑竖形菜单)</item>
+        <item>测试侧滑删除的RecyclerView(自定义参数+长安拖拽+侧滑删除)</item>
+        <item>测试CardView嵌套的SwipeMenuRecyclerView</item>
+        <item>测试自定义侧滑菜单</item>
+        <item>测试ViewType定制菜单的SwipeMenuRecyclerView</item>
+    </string-array>
+</resources>

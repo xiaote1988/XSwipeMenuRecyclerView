@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XSwipeMenuRecyclerView</string>
+
+    <string name="swipe_menu_layout_msg">我不是RecyclerViw，你左右滑我看看，有惊喜喔。</string>
+    <string name="left_button_msg">左侧Button</string>
+    <string name="right_button_msg">右侧Button</string>
+</resources>
